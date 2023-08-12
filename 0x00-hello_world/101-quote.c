@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A pragram that prints exact words
- * Return 1 (Success)
+ * main - 'A pragram that prints exact words'
+ * Return: always 1 (Success)
  */
 int main(void)
 {
