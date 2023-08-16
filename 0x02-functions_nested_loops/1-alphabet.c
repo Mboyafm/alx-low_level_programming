@@ -1,14 +1,16 @@
 #include "main.h"
 
 /**
- * print_alphabet - Make the alaphabet
- * Return: void
- */
+ * print_alphabet - Make alphabet
+ * Return: void
+ */
 
 void print_alphabet(void)
 
 {
+
 	char j;
+
 	for (j = 'a'; j <= 'z'; j++)
 	{
 		_putchar(j);
